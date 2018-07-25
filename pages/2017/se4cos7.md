@@ -296,7 +296,7 @@ Create a systemd script to auto-start/stop SoftEther. Kudos to hsaito!
 Reference: https://github.com/hsaito/SoftEtherVPN/blob/a9b9afc806a5df8598fd9acda2424d9c48ac8462/systemd/softether-vpnserver.service
 
 ```
-# vi /etc/systemd/system/softether.service
+# vi /etc/systemd/system/vpnserver.service
 ```
 
 ```
